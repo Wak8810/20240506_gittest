@@ -1,0 +1,56 @@
+commit cf93f80f207ca309058e606aef5719e0be9f6466
+Merge: 052966b 1284fd8
+Author: Hayato Wakasugi <Wak8810@users.noreply.github.com>
+Date:   Mon May 6 15:58:35 2024 +0900
+
+    Merge branch 'main' of https://github.com/Wak8810/20240506_gittest
+
+commit 052966b193c37ebaa4fdf4e8ce8cfa775f0055cc
+Author: Hayato Wakasugi <Wak8810@users.noreply.github.com>
+Date:   Mon May 6 15:54:31 2024 +0900
+
+    change color
+    
+    blueをskyblue
+
+commit 1284fd88627f8b7d668cb558f7f4a08dabb8cc99
+Author: Wak8810 <147130190+Wak8810@users.noreply.github.com>
+Date:   Mon May 6 15:54:12 2024 +0900
+
+    間違っていたため修正
+
+commit 689c3e412ceb435a63bf673a41568009d1b40b26
+Author: Wak8810 <147130190+Wak8810@users.noreply.github.com>
+Date:   Mon May 6 15:51:21 2024 +0900
+
+    change tetris color
+    
+    blue to skyblue
+
+commit 2418a197b5267af207aeaf66f29c9598b4a27886
+Author: Hayato Wakasugi <Wak8810@users.noreply.github.com>
+Date:   Mon May 6 15:48:44 2024 +0900
+
+    change speed
+    
+    1000から2000
+
+commit ddef5a094da9b5d7dda21c805f974ac4cbe383a9
+Author: Hayato Wakasugi <Wak8810@users.noreply.github.com>
+Date:   Mon May 6 15:44:06 2024 +0900
+
+    change tick
+    
+    ゲームスピードを低下
+
+commit 073d593b1ab9c2420af21919c34255e87cfd28d3
+Author: Hayato Wakasugi <Wak8810@users.noreply.github.com>
+Date:   Mon May 6 15:38:26 2024 +0900
+
+    Update tetris.js
+
+commit b3fef99af8d4489d47e80c7236eda381eb108004
+Author: Hayato Wakasugi <Wak8810@users.noreply.github.com>
+Date:   Mon May 6 15:18:24 2024 +0900
+
+    canvas-tetrisをインポート
